@@ -1,0 +1,47 @@
+
+*{
+    color: blueviolet;
+}
+
+p {
+    color: red;
+    width: 300px;
+}
+
+/**
+este es un comentario dentro de un documento css
+*/
+h1 {
+    font-family: 'Phudu', cursive;
+    border: 1px solid navy;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /**padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 20px;
+    */
+    padding: 30px 15px 15px 20px;
+    font-weight: bold;
+    color:greenyellow
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#Angy_Puche {
+    color: cyan;
+    font-size: 23px;
+    border: 1px solid black; 
+}
+
+.miclase{
+    font-weight: bold;
+    color: brown;
+}
