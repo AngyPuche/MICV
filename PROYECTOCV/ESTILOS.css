@@ -36,9 +36,8 @@ section {
 }
 
 #Angy_Puche {
-    color: cyan;
+    color: black;
     font-size: 23px;
-    border: 1px solid black; 
 }
 
 .miclase{
@@ -48,4 +47,8 @@ section {
 
 body {
     background-color: aquamarine;
+}
+
+.col-6{
+    border: 15px solid violet;
 }
