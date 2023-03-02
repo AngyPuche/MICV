@@ -9,7 +9,7 @@ p , li, .miclase {
 este es un comentario dentro de un documento css
 */
 
-h1, h2, img, .col-6, #Angy_Puche {
+h1, h2, img, .col-6, .col-4 #Angy_Puche {
     font-family: 'Phudu', cursive;
     border: 10px solid navy;
     margin-top: 5px;
