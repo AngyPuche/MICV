@@ -1,0 +1,32 @@
+
+p , li, .miclase {
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+/**
+este es un comentario dentro de un documento css
+*/
+
+h1, h2, img, .col-6, .col-4 #Angy_Puche {
+    font-family: 'Phudu', cursive;
+    border: 10px solid navy;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: bold;
+    align-items: center;   
+    text-align: center;
+}
+
+.miclase{
+    font-weight: bold;
+    color: blue;
+}
+
+body {
+    background-color: violet;
+}
+
